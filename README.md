@@ -81,5 +81,5 @@
 -   Публикация проекта на хостинге;
 
 -   Внедрение базы данных для хранения сообщений в архиве;
+![This is an image](https://user-images.githubusercontent.com/112895056/208130085-2222fad0-3dbc-4d65-b9ad-8f212f8263ec.jpg)
 
--   Разграничение прав доступа;![1280px-Erinaceus_europaeus_LC0119](https://user-images.githubusercontent.com/112895056/208125825-7499bfff-2559-4cbe-85b5-7fd328b35cac.jpg)
